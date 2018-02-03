@@ -4,7 +4,7 @@ import Container from "./components/Container/Container";
 const App = () => 
 
     <div className="container">
-        <div class="jumbotron">
+        <div className="jumbotron">
             <h5>spongebob memory game</h5>
         </div>
         

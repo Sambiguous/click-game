@@ -36,27 +36,27 @@
         "img": "/images/sandy.jpg"
     },
     {
-        "id": 9,
+        "id": 8,
         "name":"Larry",
         "img": "/images/larry.jpg"
     },
     {
-        "id": 10,
+        "id": 9,
         "name":"Barnacle Boy",
         "img": "/images/barnicleboy.jpg"
     },
     {
-        "id": 12,
+        "id": 10,
         "name":"Mrs. Puff",
         "img": "/images/mrspuff.jpg"
     },
     {
-        "id": 15,
+        "id": 11,
         "name":"Flats",
         "img": "/images/flats.jpg"
     },
     {
-        "id": 16,
+        "id": 12,
         "name":"Bubble Bass",
         "img": "/images/bubblebass.png"
     }
