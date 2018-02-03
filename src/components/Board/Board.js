@@ -1,5 +1,5 @@
 import React from "react";
-import Tile from "../Tile/Tile"
+import Tile from "../Tile";
 import images from "../../images.json";
 
 function shuffleArray(array) {
@@ -20,7 +20,7 @@ function shuffleArray(array) {
     return array
 }
 
-class Container extends React.Component {
+class Board extends React.Component {
 
     state = {
         images: shuffleArray(images),
@@ -35,8 +35,8 @@ class Container extends React.Component {
         let newState = this.state
 
         if(newState.clicked.includes(id)){
-
             newState.gameState = "lost";
+            
         } else {
 
             newState.clicked.push(id);
@@ -61,4 +61,4 @@ class Container extends React.Component {
         </div>
 }
 
-export default Container;
+export default Board;
