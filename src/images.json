@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Spongebob",
+        "img": "/images/spongebob.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Patrick",
+        "img" : "/images/patrick.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Squidward",
+        "img": "/images/squidward.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Plankton",
+        "img": "/images/plankton.png"
+    },
+    {
+        "id": 5,
+        "name":"Mr. Krabs",
+        "img": "/images/mrkrabs.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Gary",
+        "img": "/images/gary.png"
+    },
+    {
+        "id": 7,
+        "name":"Sandy",
+        "img": "/images/sandy.jpg"
+    },
+    {
+        "id": 9,
+        "name":"Larry",
+        "img": "/images/larry.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Barnacle Boy",
+        "img": "/images/barnicleboy.jpg"
+    },
+    {
+        "id": 12,
+        "name":"Mrs. Puff",
+        "img": "/images/mrspuff.jpg"
+    },
+    {
+        "id": 15,
+        "name":"Flats",
+        "img": "/images/flats.jpg"
+    },
+    {
+        "id": 16,
+        "name":"Bubble Bass",
+        "img": "/images/bubblebass.png"
+    }
+  ]
+  
